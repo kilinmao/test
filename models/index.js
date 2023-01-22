@@ -1,0 +1,1 @@
+import Cake from"./Cake.obj";import Flamingo from"./Flamingo.glb";import Parrot from"./Parrot.glb";import Stork from"./Stork.glb";export{Parrot,Flamingo,Stork,Cake};
